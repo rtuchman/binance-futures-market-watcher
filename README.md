@@ -29,6 +29,7 @@ The script will print the following data to the console:
 - Top gainers and losers among Binance Futures trading pairs
 
 Example output:
+
 --- My Pairs Information ---
   Pair     | Price      | % Funding  | % 24h Change
 BTCUSDT    | 26428.20   | 0.0007     | -0.172    
