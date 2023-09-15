@@ -30,11 +30,13 @@ The script will print the following data to the console:
 
 Example output:
 --- My Pairs Information ---
+
   Pair     | Price      | % Funding  | % 24h Change
 BTCUSDT    | 26428.20   | 0.0007     | -0.172    
 ETHUSDT    | 1622.02    | -0.0034    | -0.239    
 
 --- Top shorted pairs ---
+
   Pair     | Price      | % Funding  | % 24h Change
 TRBUSDT    | 32.983     | -2.5       | 3.607     
 BLZUSDT    | 0.15764    | -0.4855    | 2.249     
@@ -43,6 +45,7 @@ DEFIUSDT   | 480.4      | -0.1928    | 0.0
 AXSUSDT    | 4.73000    | -0.0943    | 8.467     
 
 --- Top longed pairs ---
+
   Pair     | Price      | % Funding  | % 24h Change
 AMBUSDT    | 0.0080040  | 0.01       | 1.264     
 SXPUSDT    | 0.2541     | 0.01       | 0.593     
@@ -51,6 +54,7 @@ ZILUSDT    | 0.01603    | 0.01       | -0.187
 CTSIUSDT   | 0.1248     | 0.01       | -1.108    
 
 --- Top Gainers ---
+
   Pair     | Price      | % Funding  | % 24h Change
 SPELLUSDT  | 0.0005074  | -0.2719    | 17.059    
 OXTUSDT    | 0.0817500  | 0.01       | 32.577    
@@ -59,6 +63,7 @@ STORJUSDT  | 0.3502     | 0.008      | 10.013
 NMRUSDT    | 13.340000  | 0.0061     | 8.11      
 
 --- Top Losers ---
+
   Pair     | Price      | % Funding  | % 24h Change
 GALUSDT    | 1.23920    | 0.01       | -3.804    
 AGLDUSDT   | 0.5560000  | 0.01       | -5.442    
