@@ -32,42 +32,42 @@ Example output:
 
 --- My Pairs Information ---
   Pair     | Price      | % Funding  | % 24h Change
-BTCUSDT    | 26428.20   | 0.0007     | -0.172    
-ETHUSDT    | 1622.02    | -0.0034    | -0.239    
+BTCUSDT    | 26357.20   | 0.0013     | -0.28     
+ETHUSDT    | 1619.57    | -0.0019    | -0.132    
 
 --- Top shorted pairs ---
   Pair     | Price      | % Funding  | % 24h Change
-TRBUSDT    | 32.983     | -2.5       | 3.607     
-BLZUSDT    | 0.15764    | -0.4855    | 2.249     
-SPELLUSDT  | 0.0005074  | -0.2719    | 17.059    
-DEFIUSDT   | 480.4      | -0.1928    | 0.0       
-AXSUSDT    | 4.73000    | -0.0943    | 8.467     
+TRBUSDT    | 33.744     | -2.5       | 8.787     
+BLZUSDT    | 0.15678    | -0.5124    | 1.611     
+SPELLUSDT  | 0.0004965  | -0.2341    | 14.599    
+DEFIUSDT   | 479.0      | -0.2128    | 0.0       
+AXSUSDT    | 4.72000    | -0.0873    | -4.444    
 
 --- Top longed pairs ---
   Pair     | Price      | % Funding  | % 24h Change
-AMBUSDT    | 0.0080040  | 0.01       | 1.264     
-SXPUSDT    | 0.2541     | 0.01       | 0.593     
-XEMUSDT    | 0.0251     | 0.01       | 1.746     
-ZILUSDT    | 0.01603    | 0.01       | -0.187    
-CTSIUSDT   | 0.1248     | 0.01       | -1.108    
+SXPUSDT    | 0.2532     | 0.01       | -0.039    
+XEMUSDT    | 0.0251     | 0.01       | 1.456     
+ZILUSDT    | 0.01602    | 0.01       | -0.558    
+DYDXUSDT   | 1.945      | 0.01       | 0.673     
+CTSIUSDT   | 0.1247     | 0.01       | -1.422    
 
 --- Top Gainers ---
   Pair     | Price      | % Funding  | % 24h Change
-SPELLUSDT  | 0.0005074  | -0.2719    | 17.059    
-OXTUSDT    | 0.0817500  | 0.01       | 32.577    
-WLDUSDT    | 1.1166000  | -0.0087    | 10.803    
-STORJUSDT  | 0.3502     | 0.008      | 10.013    
-NMRUSDT    | 13.340000  | 0.0061     | 8.11      
+SPELLUSDT  | 0.0004965  | -0.2341    | 14.599    
+OXTUSDT    | 0.0804100  | 0.01       | 30.519    
+STORJUSDT  | 0.3498     | 0.008      | 11.675    
+WLDUSDT    | 1.1078000  | -0.01      | 10.239    
+KEYUSDT    | 0.0058100  | 0.01       | 10.859    
 
 --- Top Losers ---
   Pair     | Price      | % Funding  | % 24h Change
-GALUSDT    | 1.23920    | 0.01       | -3.804    
-AGLDUSDT   | 0.5560000  | 0.01       | -5.442    
-UNFIUSDT   | 8.456      | -0.0133    | -5.674    
-APEUSDT    | 1.1000     | 0.0002     | -5.892    
-OGNUSDT    | 0.0941     | 0.01       | -10.551   
+AXSUSDT    | 4.72000    | -0.0873    | -4.444    
+AGLDUSDT   | 0.5556000  | 0.01       | -4.467    
+UNFIUSDT   | 8.500      | -0.01      | -5.346    
+OGNUSDT    | 0.0933     | 0.01       | -5.567    
+APEUSDT    | 1.0980     | -0.0031    | -6.463    
 
-Funding countdown: 03:38:18 
+Funding countdown: 03:10:01 
 
 
 ## License
